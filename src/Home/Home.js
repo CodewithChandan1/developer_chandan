@@ -112,7 +112,7 @@ function Home() {
   useEffect(() => {
     setTimeout(() => {
       setLoading(false);
-    }, 1600);
+    }, 4500);
   }, []);
 
   // onscroll div setting button
